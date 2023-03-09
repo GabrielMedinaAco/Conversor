@@ -21,6 +21,7 @@ Si no se presento algún error, se muestra la temperatura en C° y su equivalent
 
 
 🔑Requisitos cumplidos:
+
     *El convertidor de moneda debe:
 
          - Convertir de la moneda de tu país a Dólar
