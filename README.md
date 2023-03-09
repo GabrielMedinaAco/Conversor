@@ -36,9 +36,11 @@ Si no se presento algún error, se muestra la temperatura en C° y su equivalent
          - Convertir de Libras Esterlinas a la moneda de tu país
          - Convertir de Yen Japonés a la moneda de tu país
          - Convertir de Won sul-coreano a la moneda de tu país
+         
+     *Manejo de errores
+     *Opción de continuar o no con la ejecución del programa
 
-   *Manejo de errores
-   *Opción de continuar o no con la ejecución del programa
+   
 
 
 
