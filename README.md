@@ -1,14 +1,14 @@
 # **Conversor**
 *Primer desafío del Challenge Java*
-# Proyecto
+## Proyecto
 ![](https://github.com/GabrielMedinaAco/Conversor/blob/eb182f269edde52fd3200878feec3a42af821435/Conversor.gif)
 
-#Funcionamiento
+## Funcionamiento
 Se muestra un menú principal con las opciones de:
 - Conversor de monedas
 - Conversor de temperatura
 
-## Conversor de monedas:
+### Conversor de monedas:
 
 Pide ingresar un monto, este tiene que ser un número positivo. Si se ingresa un caracter especial o letra se muestra un mensaje de error. 
 Después se debe escoger entre una lista de opciones de conversión. Finalmente se muestra el resultado de la conversión en la moneda seleccionada.
